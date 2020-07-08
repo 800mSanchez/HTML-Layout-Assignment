@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(209, 209, 209);
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+    background: dimgray;
+}
+
+.content-mid {
+    width: 80%;
+    height: 100vh;
+    background: white;
+    margin: 0px auto;
+}
+
+
+.footer {
+    width: 80%;
+    height: 50px;
+    background: black;
+    clear: both;
+    margin: 0 auto;
+}
